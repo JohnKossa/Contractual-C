@@ -54,6 +54,9 @@ distributed evenly among -> (division)
 
 apportioned evenly to each of -> (multiplication)
 
+### IO
+Let the record show -> print
+
 ## Examples
 ### Fibonacci Sequence
 Section 1 concerning the integer party the first part:
