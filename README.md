@@ -78,15 +78,25 @@ In the case of the party of the first part surpassing 1, this section grants the
 
 Pursuant to Section 1 concerning the party 99.
 
+
 Section 1 concerning the party of the first part.
+
 The party of the second part shall be " bottles of beer".
+
 The party of the third part shall be " on the wall"
+
 The part of the fourth part shall be "Take one down. Pass it around."
+
 Let the record show the party of the first part with the party of the second part with the party of the third part
+
 Let the record show the party of the first part with the party of the second part
+
 Let the record show the party of the fourth part.
+
 In the case of the party of the first part being 0, this section grants the value True.
+
 Let the record show the party of the first part less the portion 1 with the part of the second part with the party of the third part.
+
 Pursuant to Section 1 concerning the party of the first part less the portion 1
 
 
