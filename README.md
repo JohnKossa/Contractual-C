@@ -25,7 +25,7 @@ Pursuant to Section 4 -> invokes function 4
 
 Pursuant to Section 4 concerning the parties of the third part and amount -> invokes function 4 passing the third int and amount
 
-This section sanctions the value-> return
+This section grants the value-> return
 
 ### Conditionals
 In the case of -> if
@@ -49,9 +49,9 @@ apportioned evenly to each of -> (multiplication)
 ### Fibonacci Sequence
 Section 1 concerning the integer party the first part:
 
-In the case of the party of the first part being 0, this section sanctions the value 0.
+In the case of the party of the first part being 0, this section grants the value 0.
 
-In the case of the party of the first part being 1, this section sanctions the value 1.
+In the case of the party of the first part being 1, this section grants the value 1.
 
-In the case of the party of the first part surpassing 1, this section sanctions the value pursuant to Section 1 concerning the party of the first part less the portion 1 and the portion pursuant to Section 1 concerning the party of the first part less the portion 2.
+In the case of the party of the first part surpassing 1, this section grants the value pursuant to Section 1 concerning the party of the first part less the portion 1 and the portion pursuant to Section 1 concerning the party of the first part less the portion 2.
 
