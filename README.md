@@ -5,7 +5,7 @@ Contractual C takes the very best of the C language and combines it with the ver
 ## Is it ready yet?
 No, sadly this exists as a dream for now. If I get a fair amount of time, this may see the light of day. If not, it'll end up like my other projects.
 
-## Examples
+## Pieces
 ### Try Catch
 Given that -> try
 
@@ -25,11 +25,30 @@ Pursuant to Section 4 -> invokes function 4
 
 Pursuant to Section 4 concerning the parties of the third part and amount -> invokes function 4 passing the third int and amount
 
+This section sanctions the value-> return
+
 ### Conditionals
 In the case of -> if
 
 being -> equality check
 
-### Misc
-shall be ->  (assignment operator)
+surpassing -> (greater than)
+
+### Operators
+shall be ->  (assignment)
+
+and the portion -> (addition)
+
+less the portion -> (subtraction)
+
+distributed evenly among -> (division)
+
+apportioned evenly to each of -> (multiplication)
+
+## Examples
+### Fibonacci Sequenct
+Section 1 concerning the integer party the first part:
+In the case of the party of the first part being 0, this section sanctions the value 0.
+In the case of the party of the first part being 1, this section sanctions the value 1.
+In the case of the party of the first part surpassing 1, this section sanctions the value pursuant to Section 1 concerning the party of the first part less the portion 1 and the portion pursuant to Section 1 concerning the party of the first part less the portion 2.
 
