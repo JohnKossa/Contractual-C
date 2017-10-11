@@ -46,9 +46,12 @@ distributed evenly among -> (division)
 apportioned evenly to each of -> (multiplication)
 
 ## Examples
-### Fibonacci Sequenct
+### Fibonacci Sequence
 Section 1 concerning the integer party the first part:
+
 In the case of the party of the first part being 0, this section sanctions the value 0.
+
 In the case of the party of the first part being 1, this section sanctions the value 1.
+
 In the case of the party of the first part surpassing 1, this section sanctions the value pursuant to Section 1 concerning the party of the first part less the portion 1 and the portion pursuant to Section 1 concerning the party of the first part less the portion 2.
 
