@@ -5,6 +5,15 @@ Contractual C takes the very best of the C language and combines it with the ver
 ## Is it ready yet?
 No, sadly this exists as a dream for now. If I get a fair amount of time, this may see the light of day. If not, it'll end up like my other projects.
 
+## What are the next steps?
+1. Write the tokens as Haskell constructs and build a parser.
+
+2. Have the Haskell program accept strings and execute them as a parsed program.
+
+3. ???
+
+4. Profit
+
 ## Pieces
 ### Try Catch
 Given that -> try
